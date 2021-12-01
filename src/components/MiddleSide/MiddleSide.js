@@ -1,8 +1,14 @@
+import Element from "../Robot/containers/Element";
+function MiddleSide(propos) {
 
-function MiddleSide() {
+  let display = propos.list_part.map(
+    (element) => <Element element={element}></Element>
+)
+
+  
   return (
       <div className="container">
-          <h1>Test</h1>
+          {display}
       </div>
   );
 }

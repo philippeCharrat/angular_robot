@@ -1,13 +1,13 @@
 function Visual(propos) {
-    const robot_src = propos.robot.src;
+    const robot_src = propos.robot.visual_src;
     let result;
-    switch(propos.type)
+    switch(propos.robot.visual_type)
     {
-        case 'IMG' : 
+        case 'img' : 
         result = (<img src={robot_src}></img>);
         break;
-        case 'VIDEO' : 
-        result = (<object src={robot_src}></object>);
+        case 'video' : 
+        result = (<video src={robot_src} alt="video de robot"></video>);
         break;
     }
   return (
