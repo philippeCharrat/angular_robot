@@ -1,0 +1,19 @@
+{
+    "component" : 
+    [
+        {
+            "id":"A4",
+            "title": "Contrôleur de Servomoteurs SSC-32 Lynxmotion",
+            "description":" Contrôleur de Servomoteurs SSC-32 Lynxmotion / Contrôle jusqu'à 32 servomoteurs / Livré pré-assemblé",
+            "price":12,
+            "link":"https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-ssc-32-servo-controller-2_1.jpg"
+        },
+        {
+            "id":"A1",
+            "title": "Porteur de Microcontrôleurs Mini Atom Bot Board V2 Lynxmotion",
+            "description":" Idéal pour porter le BasicATOM24-M  Jusqu'à 20 servomoteurs peuvent être connectés / Vient avec régulateur à 5Volt 250 mA",
+            "price":15,
+            "link":"https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/l/y/lynxmotion-mini-atom-bot-board_1.jpg"
+        }
+    ]
+}

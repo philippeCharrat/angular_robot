@@ -1,8 +1,8 @@
 import Element from "../Robot/containers/Element";
-function MiddleSide(propos) {
+function MiddleSide(props) {
 
-  let display = propos.list_part.map(
-    (element) => <Element element={element}></Element>
+  let display = props.list_part.map(
+    (element) => <div onClick={() => {props.onSelectRobot(element.id)}}><Element element={element}></Element></div>
 )
 
   

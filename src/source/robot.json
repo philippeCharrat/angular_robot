@@ -1,0 +1,20 @@
+{
+    "robot1":
+        {
+            "id_robot":"11111111",
+            "name_robot":"HAL",
+            "src":"https://static.fnac-static.com/multimedia/Images/BD/BD/54/C5/12932285-1505-1540-1/tsp20191010140429/Robot-Interactif-Marcher-Intelligent-Robot-Jouet-Sens-Gesture-Cadeaux-de-Controle-Pour-Les-Enfants-BT775.jpg#c1363ecc-2420-4d1e-9ef1-453d4f01fef3"
+        },
+    "robot2":
+        {
+            "id_robot":"11111112",
+            "name_robot":"Walee",
+            "src":"https://static.fnac-static.com/multimedia/Images/BD/BD/54/C5/12932285-1505-1540-1/tsp20191010140429/Robot-Interactif-Marcher-Intelligent-Robot-Jouet-Sens-Gesture-Cadeaux-de-Controle-Pour-Les-Enfants-BT775.jpg#c1363ecc-2420-4d1e-9ef1-453d4f01fef3"
+        },
+    "robot3":    
+        {
+            "id_robot":"11111113",
+            "name_robot":"JARVIS",
+            "src":"https://static.fnac-static.com/multimedia/Images/BD/BD/54/C5/12932285-1505-1540-1/tsp20191010140429/Robot-Interactif-Marcher-Intelligent-Robot-Jouet-Sens-Gesture-Cadeaux-de-Controle-Pour-Les-Enfants-BT775.jpg#c1363ecc-2420-4d1e-9ef1-453d4f01fef3"
+        }
+}

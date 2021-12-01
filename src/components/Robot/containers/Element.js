@@ -3,9 +3,12 @@ function Element(propos) {
     const title = propos.element.title;
     
     return (
-        <div>
-          <h1> {title} </h1>
-          <h2>Price : {price}</h2>
+        <div className="card">
+            <div class="card-body">
+            <h5 class="card-title">{title}</h5>
+            <p class="card-text">Price : {price}</p>
+            </div>
+          
         </div>
         );
   }
